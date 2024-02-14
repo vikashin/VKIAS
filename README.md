@@ -4,6 +4,9 @@
 
   
 <p style="color:red">This is first implementation of our VKIAS WebApp</p>
+<h2>Home Page</h2>
+<p>Here student can singn/signup and can see all available teacher for particular teacher</p>
+<p>Teacher haev to signup and signin.</p><br><br>
 
 
 
