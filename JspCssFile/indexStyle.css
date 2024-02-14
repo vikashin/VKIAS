@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body{
+    background-color:lightslategray;
+}
+
+.box1{
+    border: 1px solid lightgray;
+    width:400px;
+    margin:20px auto;
+    padding:20px;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+
+.btn{
+    border: none;
+    border-radius: 20px;
+    width:100px;
+    height:30px;
+    font-size: 15px;
+    
+}
+
+
+.btn:hover{
+	
+	cursor:pointer;
+    border: 2px solid lightblue;
+    font-size: 15px;
+    color:blue;
+    
+    
+}
+
+
+
+
+.flex{
+    display: flex;
+    gap:0px;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid lightgray;
+    width:1000px;
+    margin:20px auto;
+    border: none;
+}
+
+.input{
+	border:1px solid lighgreen;
+}
+
